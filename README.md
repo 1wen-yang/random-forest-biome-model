@@ -238,6 +238,7 @@ Summer temperature and precipitation also contribute, but less strongly.
 Errors are larger in southern regions, especially Mexico and Central America.
 
 This again shows that the model does not transfer perfectly from Europe to different environments.
+
 ---
 
 ## Author
